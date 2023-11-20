@@ -18,7 +18,7 @@ const data = [
   },
   {
     name: 'Page C',
-    uv: 2000,
+    uv: 2500,
     pv: 9800,
     amt: 2290,
   },
@@ -30,14 +30,14 @@ const data = [
   },
   {
     name: 'Page E',
-    uv: 1890,
+    uv: 2890,
     pv: 4800,
     amt: 2181,
   },
   {
     name: 'Page F',
-    uv: 2390,
-    pv: 3800,
+    uv: 3390,
+    pv: 4800,
     amt: 2500,
   },
   {
